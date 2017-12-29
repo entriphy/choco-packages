@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>betterdiscord</id>
+    <title>BetterDiscord</title>
+    <version>0.2.82</version>
+    <authors>Jiiks</authors>
+    <owners>evilarceus</owners>
+    <summary>BetterDiscord enhances Discord with several features.</summary>
+    <description>Better Discord App enhances the Discord desktop app with new features, such as more emotes, custom themes, plugins, and more.</description>
+    <projectUrl>https://betterdiscord.net</projectUrl>
+    <tags>discord addon</tags>
+    <licenseUrl>https://raw.githubusercontent.com/Jiiks/BetterDiscordApp/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
+    <iconUrl>https://cdn.dribbble.com/users/744913/screenshots/2855627/betterdiscord2.png</iconUrl>
+  </metadata>
+</package>
